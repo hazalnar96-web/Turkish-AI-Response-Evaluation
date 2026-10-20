@@ -1,6 +1,6 @@
-Turkish AI Response Evaluation | Error Detection & Quality Assurance
+# Turkish AI Response Evaluation | Error Detection & Quality Assurance
 
-Project Overview
+## Project Overview
 
 This independent portfolio project evaluates the quality and reliability of AI-generated responses to Turkish-language prompts.
 
@@ -8,7 +8,7 @@ The focus is on identifying factual inaccuracies, unsupported inferences, instru
 
 The project demonstrates human evaluation, analytical reasoning, error classification, and quality assurance skills.
 
-Evaluation Objectives
+## Evaluation Objectives
 
 * Assess factual accuracy and evidence quality.
 * Identify unsupported or misleading interpretations.
@@ -17,7 +17,7 @@ Evaluation Objectives
 * Document errors with explanations and suggested improvements.
 * Distinguish verified findings from interpretations and uncertainty.
 
-Evaluation Methodology
+## Evaluation Methodology
 
 Each test begins with a defined Turkish-language prompt and an AI-generated response.
 
@@ -27,7 +27,7 @@ Where possible, findings are checked against relevant sources. Source verificati
 
 Tests may evaluate a single response or compare multiple responses, depending on the task.
 
-Evaluation Criteria
+## Evaluation Criteria
 
 1. Factual Accuracy — Are factual claims correct and adequately supported?
 2. Instruction Following — Does the response satisfy the user’s requirements?
@@ -36,7 +36,7 @@ Evaluation Criteria
 5. Relevance & Completeness — Is the information necessary and sufficient for the task?
 6. Turkish Language Quality — Is the response clear, natural, and contextually appropriate?
 
-Published Evaluations
+## Published Evaluations
 
 TEST-001 — Unsupported Historical Inference
 
@@ -52,18 +52,18 @@ Source verification: The underlying burial-gift findings were supported by acade
 
 Severity: High, according to the human evaluator’s assessment.
 
-Read TEST-001
+[View TEST-001 Evaluation Report](TEST-001.md)
 
-Current Project Status
+## Current Project Status
 
 One exploratory evaluation report has been published, including a limited academic source verification section.
 
 The findings represent an individual human evaluation of a specific AI response. They are not a comprehensive benchmark or a general assessment of model performance.
 
-Language and Transparency
+## Language and Transparency
 
 The portfolio overview is presented in English for international accessibility. Original Turkish prompts and response excerpts are preserved in the evaluation reports to maintain linguistic context and traceability.
 
-Project Type
+## Project Type
 
 Independent AI Response Evaluation & Quality Assurance Portfolio.
