@@ -1,34 +1,69 @@
-# Turkce-Yapay-Zeka-Yanit-Degerlendirme
-Independent evaluation of Turkish AI-generated responses, focusing on accuracy, instruction following, consistency, and linguistic quality.
-# Türkçe Yapay Zekâ Yanıt Kalitesi ve Hata Analizi
+Turkish AI Response Evaluation | Error Detection & Quality Assurance
 
-## Proje Hakkında
-Bu bağımsız çalışma, yapay zekâ modellerinin Türkçe sorulara verdiği yanıtları sistematik olarak değerlendirmek amacıyla oluşturulmuştur.
+Project Overview
 
-Proje kapsamında yapay zekâ yanıtlarının doğruluğu, kullanıcı talimatlarına uygunluğu, mantıksal tutarlılığı, bilgi bütünlüğü ve Türkçe anlatım kalitesi incelenecektir.
+This independent portfolio project evaluates the quality and reliability of AI-generated responses to Turkish-language prompts.
 
-## Projenin Amaçları
-- Yanlış veya yanıltıcı bilgileri tespit etmek.
-- Kullanıcı talimatlarına uyumu değerlendirmek.
-- Eksik ve gereksiz bilgileri belirlemek.
-- Türkçe dil bilgisi ve anlatım kalitesini incelemek.
-- Alternatif yapay zekâ yanıtlarını karşılaştırmak.
-- Tespit edilen hataları gerekçeleriyle belgelemek.
+The focus is on identifying factual inaccuracies, unsupported inferences, instruction-following issues, and weaknesses in evidence-based reasoning.
 
-## Değerlendirme Kriterleri
-1. Doğruluk
-2. Talimatlara Uyum
-3. Mantıksal Tutarlılık
-4. Bilgi Bütünlüğü
-5. Türkçe Dil Kalitesi
+The project demonstrates human evaluation, analytical reasoning, error classification, and quality assurance skills.
 
-## Çalışma Yöntemi
-Her testte aynı kullanıcı talimatına verilen iki yanıt karşılaştırılacaktır.
+Evaluation Objectives
 
-Yanıtlar önceden belirlenen kriterlere göre incelenecek, hatalar gerekçelendirilecek ve değerlendirme sonuçları raporlanacaktır.
+* Assess factual accuracy and evidence quality.
+* Identify unsupported or misleading interpretations.
+* Evaluate compliance with user instructions.
+* Examine relevance, completeness, and logical consistency.
+* Document errors with explanations and suggested improvements.
+* Distinguish verified findings from interpretations and uncertainty.
 
-## Projenin Mevcut Durumu
-Proje oluşturulmuştur. İlk karşılaştırmalı değerlendirme testi henüz tamamlanmamıştır.
+Evaluation Methodology
 
-## Çalışmanın Niteliği
-Bu proje bağımsız bir portföy çalışmasıdır. Bulgular, gerçekleştirilen testlerle sınırlıdır ve kapsamlı bir model performansı araştırması olarak değerlendirilmemelidir.
+Each test begins with a defined Turkish-language prompt and an AI-generated response.
+
+The evaluator reviews the response against the original instructions, identifies potential errors, assigns a qualitative severity assessment, and documents the reasoning.
+
+Where possible, findings are checked against relevant sources. Source verification limits and uncertainties are explicitly recorded.
+
+Tests may evaluate a single response or compare multiple responses, depending on the task.
+
+Evaluation Criteria
+
+1. Factual Accuracy — Are factual claims correct and adequately supported?
+2. Instruction Following — Does the response satisfy the user’s requirements?
+3. Evidence Quality — Are conclusions supported by appropriate sources?
+4. Reasoning & Consistency — Does the model distinguish observations from interpretations?
+5. Relevance & Completeness — Is the information necessary and sufficient for the task?
+6. Turkish Language Quality — Is the response clear, natural, and contextually appropriate?
+
+Published Evaluations
+
+TEST-001 — Unsupported Historical Inference
+
+Evaluation focus: Factual accuracy, evidence verification, and unsupported inference detection.
+
+Test scenario: An AI-generated research response about archaeological interpretations of Çatalhöyük.
+
+Human evaluation score: 6/10.
+
+Key finding: The response included an interpretation about ritual privilege that was not adequately justified by the evidence presented.
+
+Source verification: The underlying burial-gift findings were supported by academic research, while the specific ritual interpretation remained insufficiently verified in the reviewed material.
+
+Severity: High, according to the human evaluator’s assessment.
+
+Read TEST-001
+
+Current Project Status
+
+One exploratory evaluation report has been published, including a limited academic source verification section.
+
+The findings represent an individual human evaluation of a specific AI response. They are not a comprehensive benchmark or a general assessment of model performance.
+
+Language and Transparency
+
+The portfolio overview is presented in English for international accessibility. Original Turkish prompts and response excerpts are preserved in the evaluation reports to maintain linguistic context and traceability.
+
+Project Type
+
+Independent AI Response Evaluation & Quality Assurance Portfolio.
