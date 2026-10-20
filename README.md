@@ -52,8 +52,8 @@ Source verification: The underlying burial-gift findings were supported by acade
 
 Severity: High, according to the human evaluator’s assessment.
 
-[View TEST-001 Evaluation Report](TEST-001.md)
-
+[View TEST-001 Evaluation Report (English)](TEST-001-EN.md)
+[View Original Turkish Evaluation Report](TEST-001.md)
 ## Current Project Status
 
 One exploratory evaluation report has been published, including a limited academic source verification section.
