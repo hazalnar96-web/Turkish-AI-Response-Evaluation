@@ -66,3 +66,45 @@ Model, arkeolojik bulguları yorumlardan açıkça ayırmalı, her çıkarımı 
 - Birincil akademik kaynakların tam metinleri üzerinden bağımsız doğrulama tamamlanmamıştır.
 - Bulgular yalnızca bu yanıt için geçerlidir; modelin genel performansını temsil etmez.
 - Bu rapor, değerlendiricinin belirlediği hata örneğini içerir; tam model yanıtı ayrıca arşivlenmemiştir.
+## 10. Akademik Kaynak Doğrulaması
+
+### İncelenen Akademik Yayın
+Yüncü, E. ve diğerleri (2025). Female lineages and changing kinship patterns in Neolithic Çatalhöyük. Science, 388(6754), eadr2915.
+
+DOI: https://doi.org/10.1126/science.adr2915
+
+Kaynaklar:
+- https://pubmed.ncbi.nlm.nih.gov/40570118/
+- https://research.hacettepe.edu.tr/en/publications/female-lineages-and-changing-kinship-patterns-in-neolithic-%C3%A7atalh-2/
+
+Yayın türü: Hakemli, özgün araştırma makalesi.
+Kontrol kapsamı: Yayımlanmış araştırma özeti ve kurumsal araştırma kaydı.
+
+### Doğrulanan Bulgular
+- Araştırmada 131 bireye ait antik genom verisi arkeolojik ve biyoarkeolojik verilerle birlikte incelenmiştir.
+- Aynı yapılarda gömülen bireylerin genetik bağlantılarında anne soyunun önemli bir rol oynadığı belirlenmiştir.
+- Kız bebek ve çocukların gömülerinde erkeklere kıyasla daha fazla mezar hediyesi bulunduğu bildirilmiştir.
+- Bu sonuçlar kadın soyuna önem veren toplumsal uygulamalara işaret etmektedir; tek başına anaerkil siyasi yönetimi kanıtlamaz.
+
+### Değerlendirilen Model İfadesi
+"Kız çocuklarına daha sık mezar hediyesi bırakılması, onların bazı ritüellerde ayrıcalıklı konumda olduğunu düşündürebilir; fakat bunun siyasi güçle ilişkisi bilinmemektedir."
+
+### Kanıt ve Yorum Ayrımı
+Mezar hediyelerindeki farklılık, akademik araştırmanın desteklediği bir bulgudur.
+
+Bunun belirli ritüellerde ayrıcalıklı konum anlamına geldiği ise ayrıca gerekçelendirilmesi gereken bir yorumdur. İncelenen araştırma özetlerinde bu özel yorumun doğrudan kanıtı tespit edilmemiştir.
+
+Bu durum, model ifadesinin kesin olarak yanlış olduğunu göstermez. Ancak modelin sunduğu kanıtlarla ulaştığı yorum arasındaki bağlantının yeterince açık kurulmadığını gösterir.
+
+### Daha Temkinli Bir Alternatif
+"Kız çocuklarının gömülerinde mezar hediyelerinin daha sık bulunması, gömü uygulamalarında cinsiyete göre bir farklılığa işaret etmektedir. Bu bulgudan belirli ritüellerde ayrıcalık veya siyasi otorite bulunduğu sonucu doğrudan çıkarılamaz."
+
+### Doğrulama Sonucu
+Durum: Kısmen doğrulanan hata tespiti.
+
+- Arkeolojik bulgu doğrulandı.
+- Ritüel ayrıcalık yorumu, incelenen kaynak özetleri üzerinden bağımsız olarak doğrulanamadı.
+- Makalenin tam metni ve ek materyallerinin sistematik incelemesi henüz tamamlanmadı.
+- Genel yanıt puanı (6/10) ve hata ciddiyeti (yüksek), insan değerlendiricinin görüşü olarak korunmuştur.
+
+Bu kontrol, tek bir model yanıtına yönelik sınırlı kaynak doğrulamasıdır; kapsamlı veya sistematik literatür taraması değildir.
