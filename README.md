@@ -38,7 +38,7 @@ Tests may evaluate a single response or compare multiple responses, depending on
 
 ## Published Evaluations
 
-TEST-001 — Unsupported Historical Inference
+### TEST-001 — Unsupported Historical Inference
 
 Evaluation focus: Factual accuracy, evidence verification, and unsupported inference detection.
 
